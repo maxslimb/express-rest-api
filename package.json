@@ -1,0 +1,17 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "REST API in ExpressJs which will read 20K students records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kishan Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
